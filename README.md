@@ -4,7 +4,7 @@
 
 ## Tools used:
 
-* [Vercel Project](https://fiap-project-simpsons.vercel.app/)
+* [Vercel Project](https://fiap-project-simpsons.vercel.app/){:target="_blank"}
 
 * HTML 4
 
